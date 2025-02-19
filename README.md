@@ -6,6 +6,8 @@ I am still learning about the basics of ~~business analytics~~ as I am in the fi
 ## Heading 2
 ### Heading 3
 
-- [Project Title](#Project-Title)
+- [PROJECT TITLE](#Project-Title)
 
 ## Project Title
+
+This is my project.
